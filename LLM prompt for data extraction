@@ -1,1 +1,528 @@
+You are assisting with a systematic analysis of the bench-to-bedside
+translation of induced pluripotent stem cell (iPSC)-derived therapeutics.
 
+The purpose of this study is to characterize the therapeutic iPSC research
+landscape before clinical translation and compare it with the landscape of
+iPSC therapies that have entered clinical trials.
+
+You will receive the TITLE and ABSTRACT of one research paper.
+
+Your tasks are to determine:
+
+1. Whether the study is relevant to therapeutic iPSC development.
+2. Which disease/clinical indication it targets.
+3. What iPSC-derived therapeutic product it investigates.
+4. What translational research problem the study primarily addresses.
+5. What is the highest experimental evidence level reached.
+
+Use ONLY information contained in the title and abstract.
+Do not infer information that is not stated or clearly supported.
+
+===========================================================
+STEP 1 — THERAPEUTIC iPSC STUDY
+===========================================================
+
+Classify:
+
+Therapeutic iPSC Study = YES / NO / UNCERTAIN
+
+
+YES:
+
+The study develops, investigates, optimizes, evaluates, manufactures,
+or clinically translates an iPSC-derived product intended for therapeutic
+use.
+
+This includes research on:
+
+- generation/differentiation of cells intended for therapeutic use
+- biological mechanisms underlying therapeutic activity or potency
+- engineering of therapeutic iPSC-derived cells or tissues
+- biomaterials or delivery systems for iPSC-derived therapies
+- therapeutic efficacy
+- transplantation
+- safety of therapeutic products
+- manufacturing, scale-up, quality control, or CMC
+- clinical evaluation of iPSC-derived therapies
+
+
+NO:
+
+iPSCs or iPSC-derived cells are used primarily as experimental tools
+rather than as the therapeutic product.
+
+Examples include:
+
+- disease modeling
+- drug screening
+- toxicity screening of conventional drugs
+- developmental biology
+- modeling genetic variants
+- basic reprogramming studies without therapeutic development
+- organoid disease models without therapeutic application
+- mechanistic studies of disease pathogenesis using iPSC models
+
+
+IMPORTANT DISTINCTION:
+
+Ask:
+
+"What role do the iPSC-derived cells play in this study?"
+
+If they are being developed as, or directly contribute to, the intended
+therapeutic intervention:
+→ YES
+
+If they are primarily a model or experimental platform for understanding
+disease or testing another therapy:
+→ NO
+
+If this cannot be determined:
+→ UNCERTAIN
+
+
+If NO, still identify the exclusion reason, but do not perform Steps 2–5.
+
+===========================================================
+STEP 2 — TARGET DISEASE / THERAPEUTIC FIELD
+===========================================================
+
+For YES studies, identify:
+
+A. Broad Therapeutic Field
+
+Use ONE of the following:
+
+1. Neurological / CNS
+2. Cardiovascular
+3. Ophthalmic / Retinal
+4. Endocrine / Metabolic
+5. Musculoskeletal / Orthopedic
+6. Hematological
+7. Cancer / Oncology
+8. Immunological / Inflammatory
+9. Hepatic / Gastrointestinal
+10. Renal / Urological
+11. Respiratory / Pulmonary
+12. Dermatological / Wound Repair
+13. Other
+14. General / Non-disease-specific therapeutic platform
+
+
+B. Specific Target Disease / Indication
+
+Report the most specific indication supported by the abstract.
+
+Examples:
+
+Parkinson's disease
+Heart failure
+Myocardial infarction
+Age-related macular degeneration
+Type 1 diabetes
+Spinal cord injury
+Articular cartilage defect
+
+Do not replace a specific disease with a broad organ category.
+
+If the technology is genuinely disease-independent, report:
+
+"Not disease-specific"
+
+
+MULTIPLE DISEASES:
+
+If several diseases are mentioned only as possible applications,
+do not treat all of them as target indications.
+
+Identify the disease actually investigated.
+
+If the study genuinely investigates multiple diseases equally, report
+"Multiple" and list them.
+
+
+===========================================================
+STEP 3 — iPSC-DERIVED THERAPEUTIC PRODUCT
+===========================================================
+
+Identify the main therapeutic product.
+
+Use the most specific terminology supported by the abstract.
+
+Examples:
+
+- iPSC-derived dopaminergic progenitors
+- iPSC-derived neural progenitor cells
+- iPSC-derived cardiomyocytes
+- iPSC-derived cardiomyocyte patch
+- iPSC-derived retinal pigment epithelial cells
+- iPSC-derived pancreatic beta cells
+- iPSC-derived chondrocytes
+- iPSC-derived mesenchymal/stromal cells
+- iPSC-derived NK cells
+- iPSC-derived CAR-NK cells
+- iPSC-derived platelets
+- iPSC-derived organoid/tissue construct
+
+Also identify:
+
+Therapeutic Strategy:
+
+- Cell replacement
+- Tissue regeneration/reconstruction
+- Engineered immune-cell therapy
+- Gene-corrected cell therapy
+- Tissue-engineered cell therapy
+- Paracrine/immunomodulatory cell therapy
+- Other
+- Unclear
+
+
+===========================================================
+STEP 4 — PRIMARY RESEARCH FOCUS
+===========================================================
+
+Determine the PRIMARY translational research problem addressed by
+the study.
+
+Assign ONE primary category.
+
+-----------------------------------------------------------
+A. CELL GENERATION & DIFFERENTIATION
+-----------------------------------------------------------
+
+Core question:
+
+"How can the therapeutic cell/product be generated?"
+
+Includes:
+
+- reprogramming methods
+- differentiation protocols
+- induction methods
+- lineage specification
+- maturation
+- increasing differentiation efficiency
+- increasing purity/yield
+
+-----------------------------------------------------------
+B. MECHANISM & POTENCY
+-----------------------------------------------------------
+
+Core question:
+
+"Why or how does the therapeutic product exert its effect?"
+
+Includes:
+
+- mechanism of action
+- molecular pathways underlying therapeutic activity
+- paracrine mechanisms
+- secreted factors
+- cell-cell interactions
+- mechanisms of regeneration
+- biological determinants of potency
+- causal mechanisms of engraftment or functional recovery
+
+IMPORTANT:
+
+Animal experiments do NOT automatically make a study an efficacy study.
+
+If animals are primarily used to demonstrate WHY a therapeutic effect
+occurs, classify as Mechanism & Potency.
+
+-----------------------------------------------------------
+C. BIOENGINEERING & THERAPEUTIC OPTIMIZATION
+-----------------------------------------------------------
+
+Core question:
+
+"How can the therapeutic product or its delivery be engineered to
+improve therapeutic performance?"
+
+Includes:
+
+- genetic engineering
+- hypoimmune engineering
+- biomaterials
+- scaffolds
+- hydrogels
+- encapsulation
+- tissue engineering
+- cell sheets/patches
+- delivery technologies
+- engineering to improve survival
+- engineering to improve engraftment
+- engineering to improve persistence
+- engineering to improve therapeutic function
+
+If engineering primarily improves production scale or manufacturing
+consistency rather than biological performance, classify as
+Manufacturing/CMC instead.
+
+-----------------------------------------------------------
+D. THERAPEUTIC EFFICACY
+-----------------------------------------------------------
+
+Core question:
+
+"Does the therapeutic product produce meaningful therapeutic benefit?"
+
+Includes:
+
+- therapeutic efficacy
+- disease improvement
+- functional recovery
+- transplantation efficacy
+- dose-response
+- durability of benefit
+- therapeutic comparison
+- efficacy in disease-relevant animal models
+
+IMPORTANT:
+
+Animal use alone is NOT sufficient for this category.
+
+The main purpose must be demonstrating THAT the therapy works rather
+than WHY it works.
+
+-----------------------------------------------------------
+E. SAFETY
+-----------------------------------------------------------
+
+Core question:
+
+"Is the therapeutic product safe?"
+
+Includes:
+
+- tumorigenicity
+- teratoma risk
+- residual pluripotent cells
+- genomic instability
+- abnormal proliferation
+- off-target differentiation
+- immunogenicity
+- immune rejection
+- toxicity
+- safety-related biodistribution
+- long-term transplantation safety
+
+-----------------------------------------------------------
+F. MANUFACTURING / CMC / QUALITY CONTROL
+-----------------------------------------------------------
+
+Core question:
+
+"Can the therapeutic product be produced consistently and at clinically
+relevant scale?"
+
+Includes:
+
+- GMP-compatible manufacturing
+- scale-up
+- bioreactors
+- automated production
+- closed-system manufacturing
+- cryopreservation
+- cell banking
+- batch-to-batch consistency
+- quality control
+- release criteria
+- potency assays for product release
+- process validation
+- manufacturing comparability
+
+-----------------------------------------------------------
+G. CLINICAL TRANSLATION
+-----------------------------------------------------------
+
+Core question:
+
+"How does the iPSC-derived therapeutic product perform in humans?"
+
+Includes:
+
+- first-in-human transplantation
+- clinical trials
+- patient safety
+- clinical efficacy
+- clinical dosing
+- clinical transplantation procedures
+- clinical follow-up
+
+
+===========================================================
+PRIMARY VS SECONDARY RESEARCH FOCUS
+===========================================================
+
+Many studies address multiple translational problems.
+
+Assign:
+
+- ONE Primary Research Focus
+- Up to TWO Secondary Research Focus categories
+
+The PRIMARY category should represent the main scientific question,
+novelty, or conclusion of the study.
+
+Use the stated objective, major results, and final conclusion to determine
+the primary category.
+
+Do NOT assign a secondary category merely because a routine experiment
+was performed.
+
+Examples:
+
+Routine cell-marker characterization
+≠ automatically Cell Generation
+
+Routine viability testing
+≠ automatically Safety
+
+Animal transplantation
+≠ automatically Therapeutic Efficacy
+
+Measurement of signaling pathways
+≠ automatically Mechanism
+
+A secondary category should be assigned only when the study makes a
+substantial research contribution to that category.
+
+
+DECISION RULE:
+
+Mechanism vs Efficacy:
+
+"WHY does it work?"
+→ Mechanism & Potency
+
+"DOES it work?"
+→ Therapeutic Efficacy
+
+
+Bioengineering vs Efficacy:
+
+"Does an engineered modification improve the therapy?"
+and the modification itself is the main innovation
+→ Bioengineering
+
+"Does an established therapeutic product produce benefit?"
+→ Therapeutic Efficacy
+
+
+Bioengineering vs Manufacturing:
+
+Engineering biological/therapeutic performance
+→ Bioengineering
+
+Engineering production, scalability, reproducibility, or consistency
+→ Manufacturing / CMC
+
+
+===========================================================
+STEP 5 — HIGHEST EXPERIMENTAL EVIDENCE LEVEL
+===========================================================
+
+Record the HIGHEST level actually demonstrated in the study:
+
+E1 = In vitro only
+
+E2 = Small-animal in vivo
+Examples: mouse, rat
+
+E3 = Large-animal in vivo
+Examples: pig, sheep, dog
+
+E4 = Non-human primate
+
+E5 = Human / clinical
+
+
+IMPORTANT:
+
+Evidence level describes WHERE the therapeutic concept was tested.
+
+It does NOT determine the research-focus category.
+
+For example:
+
+A study investigating a molecular mechanism using transplanted cells
+in mice:
+
+Primary Research Focus:
+Mechanism & Potency
+
+Evidence Level:
+E2 — Small-animal in vivo
+
+
+If both in vitro and animal experiments are performed, report the highest
+level.
+
+Do not infer experiments not described in the abstract.
+
+
+===========================================================
+QUALITY CONTROL / UNCERTAINTY
+===========================================================
+
+For every classification, provide a confidence level:
+
+HIGH:
+The abstract clearly states the relevant information.
+
+MODERATE:
+The classification is supported but some ambiguity exists.
+
+LOW:
+Substantial interpretation is required.
+
+If information is genuinely unavailable, report "Unclear" or
+"Not reported".
+
+DO NOT guess.
+
+===========================================================
+OUTPUT FORMAT
+===========================================================
+
+Return ONLY the following structured output:
+
+Therapeutic iPSC Study:
+[YES / NO / UNCERTAIN]
+
+Exclusion Reason:
+[If NO, provide short reason; otherwise "Not applicable"]
+
+Broad Therapeutic Field:
+[Category]
+
+Specific Target Disease/Indication:
+[Specific disease]
+
+Therapeutic Cell/Product:
+[Product]
+
+Therapeutic Strategy:
+[Strategy]
+
+Primary Research Focus:
+[A-G + category name]
+
+Secondary Research Focus:
+[Category/categories or None]
+
+Highest Experimental Evidence Level:
+[E1-E5 + description]
+
+Key Evidence:
+[Briefly quote or closely paraphrase the abstract evidence supporting
+the primary classification]
+
+Classification Reason:
+[Maximum 2 sentences explaining why the primary category was chosen,
+particularly when competing categories are possible]
+
+Confidence:
+[HIGH / MODERATE / LOW]
