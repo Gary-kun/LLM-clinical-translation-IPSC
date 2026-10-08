@@ -1,0 +1,186 @@
+{
+  "Integrating viral reprogramming": [
+    "\\bretrovir(?:al|us)\\b",
+    "\\blentivir(?:al|us)\\b",
+    "\\bintegrating vector(?:s)?\\b"
+  ],
+  "Non-integrating reprogramming": [
+    "\\bsendai\\b",
+    "\\bepisomal\\b",
+    "\\bminicircle(?:s)?\\b",
+    "\\bintegration[- ]free\\b",
+    "\\bsynthetic mrna\\b",
+    "\\bnon[- ]integrating\\b"
+  ],
+  "Chemical reprogramming": [
+    "\\bchemical reprogramming\\b",
+    "\\bsmall[- ]molecule reprogramming\\b",
+    "\\bchemically induced pluripotent\\b"
+  ],
+  "Accessible starting materials": [
+    "\\burine[- ]derived\\b",
+    "\\bcord blood\\b",
+    "\\bperipheral blood\\b",
+    "\\badipose[- ]derived\\b",
+    "\\bkeratinocyte(?:s)?\\b",
+    "\\bdental pulp\\b"
+  ],
+  "Defined or xeno-free differentiation": [
+    "\\bxeno[- ]free\\b",
+    "\\bserum[- ]free\\b",
+    "\\bchemically defined\\b",
+    "\\bfeeder[- ]free\\b",
+    "\\bgmp[- ]compatible\\b"
+  ],
+  "Cell purification and enrichment": [
+    "\\bcell sorting\\b",
+    "\\bflow sorting\\b",
+    "\\bmagnetic sorting\\b",
+    "\\bpurif(?:y|ied|ication)\\b",
+    "\\benrichment\\b",
+    "\\bresidual pluripotent\\b"
+  ],
+  "Functional maturation": [
+    "\\bfunctional maturation\\b",
+    "\\bmaturation medium\\b",
+    "\\bmature phenotype\\b",
+    "\\belectrical maturation\\b",
+    "\\bmetabolic maturation\\b"
+  ],
+  "CRISPR or conventional genome editing": [
+    "\\bcrispr(?:[- /]?cas9)?\\b",
+    "\\bcas9\\b",
+    "\\bgene edit(?:ing|ed)\\b",
+    "\\bgenome edit(?:ing|ed)\\b",
+    "\\bgene correction\\b"
+  ],
+  "Base or prime editing": [
+    "\\bbase edit(?:ing|or|ed)\\b",
+    "\\bprime edit(?:ing|or|ed)\\b"
+  ],
+  "Hypoimmune engineering": [
+    "\\bhypoimmune\\b",
+    "\\bimmune evas(?:ion|ive)\\b",
+    "\\bb2m(?:[- /]?knockout)?\\b",
+    "\\bciita(?:[- /]?knockout)?\\b",
+    "\\bcd47 overexpress(?:ion|ed)?\\b",
+    "\\bhla[- ](?:class )?[12i]+[- ]deficient\\b"
+  ],
+  "Inducible safety switches": [
+    "\\bsafety switch(?:es)?\\b",
+    "\\bsuicide gene\\b",
+    "\\bicasp9\\b",
+    "\\binducible caspase[- ]?9\\b",
+    "\\bkill switch(?:es)?\\b"
+  ],
+  "Scaffolds and hydrogels": [
+    "\\bscaffold(?:s)?\\b",
+    "\\bhydrogel(?:s)?\\b",
+    "\\bextracellular matrix\\b",
+    "\\bbiomaterial(?:s)?\\b",
+    "\\bdecellulari[sz]ed matrix\\b"
+  ],
+  "Cell sheets and tissue patches": [
+    "\\bcell sheet(?:s)?\\b",
+    "\\btissue patch(?:es)?\\b",
+    "\\bcardiac patch(?:es)?\\b",
+    "\\bengineered tissue(?:s)?\\b",
+    "\\btissue[- ]engineered construct(?:s)?\\b"
+  ],
+  "3D organoids and assembloids": [
+    "\\borganoid(?:s)?\\b",
+    "\\bassembloid(?:s)?\\b",
+    "\\bspheroid(?:s)?\\b",
+    "\\bthree[- ]dimensional\\b",
+    "\\b3d cultur(?:e|es|ed)\\b"
+  ],
+  "Encapsulation and controlled delivery": [
+    "\\bencapsulat(?:e|ed|ion)\\b",
+    "\\bmicroencapsulat(?:e|ed|ion)\\b",
+    "\\bcontrolled release\\b",
+    "\\bdelivery vehicle\\b",
+    "\\bimplantable device\\b"
+  ],
+  "Preconditioning and survival enhancement": [
+    "\\bprecondition(?:ing|ed)\\b",
+    "\\bhypoxic precondition(?:ing|ed)\\b",
+    "\\bprosurvival\\b",
+    "\\bpro-survival\\b",
+    "\\bsurvival cocktail\\b"
+  ],
+  "Vascularization and perfusion": [
+    "\\bvasculari[sz](?:e|ed|ation)\\b",
+    "\\bprevasculari[sz](?:e|ed|ation)\\b",
+    "\\bperfusion\\b",
+    "\\bmicrovascular\\b",
+    "\\bendothelial network(?:s)?\\b"
+  ],
+  "Tumorigenicity and teratoma": [
+    "\\btumou?rigenic(?:ity)?\\b",
+    "\\bteratoma(?:s)?\\b",
+    "\\bneoplastic\\b",
+    "\\bmalignant transformation\\b"
+  ],
+  "Genomic integrity": [
+    "\\bgenomic integrity\\b",
+    "\\bkaryotyp(?:e|ic)\\b",
+    "\\bcopy number variation\\b",
+    "\\bchromosomal abnormalit(?:y|ies)\\b",
+    "\\bgenomic instability\\b"
+  ],
+  "Immunogenicity and rejection": [
+    "\\bimmunogenic(?:ity)?\\b",
+    "\\bimmune rejection\\b",
+    "\\ballogeneic rejection\\b",
+    "\\bgraft rejection\\b",
+    "\\bimmune compatib(?:ility|le)\\b"
+  ],
+  "Biodistribution and ectopic tissue": [
+    "\\bbiodistribution\\b",
+    "\\bectopic tissue\\b",
+    "\\bectopic growth\\b",
+    "\\bcell migration\\b",
+    "\\boff[- ]target differentiation\\b"
+  ],
+  "GMP manufacturing": [
+    "\\bgmp\\b",
+    "\\bgood manufacturing practice(?:s)?\\b",
+    "\\bclinical[- ]grade\\b"
+  ],
+  "Bioreactor and scale-up": [
+    "\\bbioreactor(?:s)?\\b",
+    "\\bscale[- ]up\\b",
+    "\\bscaled[- ]up\\b",
+    "\\blarge[- ]scale production\\b",
+    "\\bmass production\\b"
+  ],
+  "Automation and closed systems": [
+    "\\bautomat(?:e|ed|ion)\\b",
+    "\\bclosed system(?:s)?\\b",
+    "\\bclosed[- ]system manufacturing\\b",
+    "\\brobotic culture\\b"
+  ],
+  "Cryopreservation and cell banking": [
+    "\\bcryopreserv(?:e|ed|ation)\\b",
+    "\\bcell bank(?:ing|s)?\\b",
+    "\\bmaster cell bank\\b",
+    "\\bworking cell bank\\b",
+    "\\boff[- ]the[- ]shelf\\b"
+  ],
+  "Release testing and potency assays": [
+    "\\brelease criteri(?:a|on)\\b",
+    "\\brelease test(?:ing)?\\b",
+    "\\bpotency assay(?:s)?\\b",
+    "\\bbatch consistency\\b",
+    "\\blot release\\b",
+    "\\bquality control\\b",
+    "\\bcomparability\\b"
+  ],
+  "First-in-human and clinical trials": [
+    "\\bfirst[- ]in[- ]human\\b",
+    "\\bphase [123i]+\\b",
+    "\\bclinical trial\\b",
+    "\\bpatient cohort\\b",
+    "\\bdose escalation\\b"
+  ]
+}
